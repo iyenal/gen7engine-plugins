@@ -1,6 +1,7 @@
-
 # This file is included in all local Gen7 Engine's setup builds
 # Include here common code between projects, or code mandatory to plugins
+
+import engine
 
 # Your plugin Python code below
 
