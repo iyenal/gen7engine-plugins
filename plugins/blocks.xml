@@ -1,0 +1,77 @@
+
+<!--
+      . 
+ .>   )\;`a__		/!\ WARNING, THERE MAY BE DRAGONS! /!\
+(  _ _)/ /-." ~~	YOU'RE UNDER THE HOOD OF A GEN7 ENGINE COMPONENT
+ `( )_ )/			DON'T MODIFY THIS FILE WITH UNAUTHORIZED AND UNSAFE CONTENT
+  <_  <_			OTHER THAN THAT, HAVE A GOOD DAY
+
+//-->
+
+<script>
+	
+/*************************
+*
+*	YOUR CREATED PLUGIN CODE BELOW (BLOCKLY BLOCKS DEFINITION JS)
+*
+*************************/
+
+
+
+
+
+/*************************
+*
+*	INCLUDED PLUGINS
+*
+*************************/
+
+
+Blockly.Blocks['showFPStext'] = {
+  init: function() {
+    this.appendValueInput("text")
+        .setCheck("String")
+        .appendField("Show before FPS");
+    this.setPreviousStatement(true, null);
+    this.setNextStatement(true, null);
+    this.setColour(230);
+ this.setTooltip("");
+ this.setHelpUrl("");
+  }
+};
+
+Blockly.Python['showFPStext'] = function(block) {
+  var value_text = Blockly.Python.valueToCode(block, 'text', Blockly.Python.ORDER_ATOMIC);
+  // TODO: Assemble Python into code variable.
+  // Never forget the /n at end for line blocks
+  var code = 'showFPSScreen('+value_text+')\n';
+  // showFPSScreen is defined in python.py
+  return code;
+};
+
+
+</script>
+	
+	
+<xml id="toolbox_plugin" style="display: none">
+
+	<!--
+	PLACE BELOW YOUR CUSTOM PLUGIN'S BLOCKS TOOLBOX
+	//-->
+	
+	
+	
+	
+	
+	<!--
+	INCLUDED PLUGINS
+	//-->
+
+    <category name="Common Plugins">
+		<block type="showFPStext"></block>
+    </category>
+</xml>
+
+
+
+
