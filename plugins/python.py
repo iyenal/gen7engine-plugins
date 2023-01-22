@@ -10,9 +10,7 @@ import engine
 
 # Included plugins
 
-def timeGetFPS():
-    return 99
-
 def showFPSScreen(text):
+    # Usage of Gen7 API: createLog for text display and timeGetFPS to get consolidated FPS
     createLog(str(text)+":"+str(timeGetFPS()))
     
