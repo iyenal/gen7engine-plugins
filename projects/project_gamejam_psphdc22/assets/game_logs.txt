@@ -1,0 +1,2423 @@
+
+[LOG] Connected to file STDOUT
+[TEST:STDOUT] HELLO FROM GEN7
+[LOG] Controls init passed
+[LOG] Platform API Acquired: PSP
+[LOG][UPY] Py: PSP
+[LOG][UPY] Py: 
+
+[LOG] Loading script
+[LOG] /! Cleaning memory model
+
+[LOG] Finished cleaning model
+
+[LOG] Opening model file
+[LOG] Model filesize:88589
+[LOG] Model filesize length: 88589
+[LOG] Start Model Parsing
+[LOG] Model material name  = Ghost_White
+[LOG] Model material name  = Title
+[LOG] Model material name  = TitleStart
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Ghost_White
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Title
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = TitleStart
+[LOG] Starting with shapes3
+[LOG] Model stats: # of shapes    = 3
+[LOG] Model stats: # of materials = 3
+[LOG] Model stats: # of texcoords = 1063
+[LOG] Model shape[0] name = Ghost_White
+[LOG] Model shape[1] name = Title
+[LOG] Model shape[2] name = TitleStart
+[LOG] Material properties
+[LOG] Mat name = Ghost_White
+[LOG] Mat tex = ghost.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: ghost.png
+[LOG] Created model textures = 1
+
+[LOG] Material properties
+[LOG] Mat name = Title
+[LOG] Mat tex = title.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: title.png
+[LOG] Created model textures = 2
+
+[LOG] Material properties
+[LOG] Mat name = TitleStart
+[LOG] Mat tex = title_start.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: title_start.png
+[LOG] Created model textures = 3
+
+[LOG] Model allocation
+[LOG] Model shape FO  = 0
+[LOG] Model shape TRIS  = 12
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 1340
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 12
+[LOG] Model shape TRIS  = 1316
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 1340
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 1328
+[LOG] Model shape TRIS  = 12
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 1340
+[LOG] Model parsing finished
+[LOG] Model bmin = -8.089932, -4.356590, -6.389840
+
+[LOG] Model bmax = 8.089932, 7.234828, -2.773153
+
+[LOG] Model parsing and cleaning OK
+[LOG] Created object : Ghost_White
+[LOG] obC px : 0.000000
+[LOG] Created object : Title
+[LOG] obC px : 0.000000
+[LOG] Created object : TitleStart
+[LOG] obC px : 0.000000
+[LOG] Creating texture
+[LOG] Texture: sky.png
+[LOG] NO texture DXT compression
+[LOG] Disabled sprites : 1
+[LOG] Disabled objects : 0
+[LOG] Creating texture
+[LOG] Texture: lives.png
+[LOG] Disabled sprites : 1
+[LOG] Disabled objects : 0
+[LOG] Creating texture
+[LOG] Texture: msg1.png
+[LOG] Disabled sprites : 1
+[LOG] Disabled objects : 0
+[LOG] Python parsing finished[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2[LOG] Number of shapes: 3[LOG] Number of mats: 3
+[LOG] MDL shape: 0
+[LOG] MDL prop: 0
+[LOG] MDL shape: 1
+[LOG] MDL prop: 1
+[LOG] MDL shape: 2
+[LOG] MDL prop: 2
+[LOG] /! Cleaning memory model
+
+[LOG] Cleaning model textures = 0
+
+[LOG] Cleaning texture 1 = 1
+
+[LOG] Cleaning textures = 1
+
+[LOG] Cleaning model textures = 1
+
+[LOG] Cleaning texture 1 = 2
+
+[LOG] Cleaning textures = 2
+
+[LOG] Cleaning model textures = 2
+
+[LOG] Cleaning texture 1 = 3
+
+[LOG] Cleaning textures = 3
+
+[LOG] Cleaning model shapes = 0
+
+[LOG] Cleaning model shapes = 1
+
+[LOG] Cleaning model shapes = 2
+
+[LOG] Finished cleaning model
+
+[LOG] Opening model file
+[LOG] Model filesize:480262
+[LOG] Model filesize length: 480262
+[LOG] Start Model Parsing
+[LOG] Model material name  = Material.002
+[LOG] Model material name  = Camel
+[LOG] Model material name  = Cactus
+[LOG] Model material name  = Tornado
+[LOG] Model material name  = Plant_
+[LOG] Model material name  = lambert6
+[LOG] Model material name  = Player
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Material.002
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Camel
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Cactus
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Tornado
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Plant_
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = lambert6
+[LOG] Model group registered
+[LOG] Model group registered
+[LOG] Model material registered  = Player
+[LOG] Starting with shapes7
+[LOG] Model stats: # of shapes    = 7
+[LOG] Model stats: # of materials = 7
+[LOG] Model stats: # of texcoords = 4535
+[LOG] Model shape[0] name = Material.002
+[LOG] Model shape[1] name = Camel
+[LOG] Model shape[2] name = Cactus
+[LOG] Model shape[3] name = Tornado
+[LOG] Model shape[4] name = Plant_
+[LOG] Model shape[5] name = lambert6
+[LOG] Model shape[6] name = Player
+[LOG] Material properties
+[LOG] Mat name = Cactus
+[LOG] Mat tex = Cactus_Diffuse.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: Cactus_Diffuse.png
+[LOG] Created model textures = 7
+
+[LOG] Material properties
+[LOG] Mat name = Camel
+[LOG] Mat tex = tmptbq1j8wm.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: tmptbq1j8wm.png
+[LOG] Created model textures = 8
+
+[LOG] Material properties
+[LOG] Mat name = Material.002
+[LOG] Mat tex = T3.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: T3.png
+[LOG] Created model textures = 9
+
+[LOG] Material properties
+[LOG] Mat name = Plant_
+[LOG] Mat tex = Plant3_diffuse.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: Plant3_diffuse.png
+[LOG] Created model textures = 10
+
+[LOG] Material properties
+[LOG] Mat name = Player
+[LOG] Mat tex = character1DiffusePass6_Material.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: character1DiffusePass6_Material.png
+[LOG] Created model textures = 11
+
+[LOG] Material properties
+[LOG] Mat name = Tornado
+[LOG] Mat tex = Emission.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: Emission.png
+[LOG] Created model textures = 12
+
+[LOG] Material properties
+[LOG] Mat name = lambert6
+[LOG] Mat tex = diffuse.png
+[LOG] Mat illum = 2
+[LOG] Mat loading texture...
+[LOG] Mat getting texture location: diffuse.png
+[LOG] Created model textures = 13
+
+[LOG] Model allocation
+[LOG] Model shape FO  = 0
+[LOG] Model shape TRIS  = 715
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 4403
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 715
+[LOG] Model shape TRIS  = 1084
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 4403
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 1799
+[LOG] Model shape TRIS  = 924
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 4403
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 2723
+[LOG] Model shape TRIS  = 508
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 4403
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 3231
+[LOG] Model shape TRIS  = 274
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 4403
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 3505
+[LOG] Model shape TRIS  = 118
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 4403
+[LOG] Model parsing finished
+[LOG] Model shape FO  = 3623
+[LOG] Model shape TRIS  = 780
+[LOG] Model defining name
+[LOG] Model internal allocations
+[LOG] Model allocations OK
+[LOG] Model num fv  = 4403
+[LOG] Model parsing finished
+[LOG] Model bmin = -327.733704, -4.002659, -340.637573
+
+[LOG] Model bmax = 339.272217, 23.351334, 178.313049
+
+[LOG] Model parsing and cleaning OK
+[LOG] Created object : Material.002
+[LOG] obC px : 0.000000
+[LOG] Created object : Camel
+[LOG] obC px : 0.000000
+[LOG] Created object : Cactus
+[LOG] obC px : 0.000000
+[LOG] Created object : Tornado
+[LOG] obC px : 0.000000
+[LOG] Created object : Plant_
+[LOG] obC px : 0.000000
+[LOG] Created object : lambert6
+[LOG] obC px : 0.000000
+[LOG] Created object : Player
+[LOG] obC px : 0.000000
+[LOG] Disabled sprites : 0
+[LOG] Disabled objects : 1
+[LOG] Disabled sprites : 0
+[LOG] Disabled objects : 1
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL prop: 7
+[LOG] MDL shape: 5
+[LOG] MDL prop: 8
+[LOG] MDL shape: 6
+[LOG] MDL prop: 9
+[LOG] Enabled sprites : 1
+[LOG] Enabled objects : 0[LOG] Number of shapes: 7[LOG] Number of mats: 7
+[LOG] MDL shape: 0
+[LOG] MDL prop: 3
+[LOG] MDL shape: 1
+[LOG] MDL prop: 4
+[LOG] MDL shape: 2
+[LOG] MDL prop: 5
+[LOG] MDL shape: 3
+[LOG] MDL prop: 6
+[LOG] MDL shape: 4
+[LOG] MDL p

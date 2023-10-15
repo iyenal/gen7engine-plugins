@@ -1,0 +1,52 @@
+# Blender 3.3.1 MTL File: 'sand.blend'
+# www.blender.org
+
+newmtl Ghost_White
+Ns 644.411194
+Ka 1.000000 1.000000 1.000000
+Ks 0.389908 0.389908 0.389908
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ghost.png
+
+newmtl Player
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd character1DiffusePass6_Material.png
+
+newmtl initialShadingGroup
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1_initialShadingGroup.png
+
+newmtl map_3_castle
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1_map_3_castle.png
+
+newmtl map_3_terrain1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1_map_3_terrain1.png
